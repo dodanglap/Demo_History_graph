@@ -1,6 +1,6 @@
 name: "Demo_history_graph"
 version: "1.0.0"
-slug: "sleeppad_0x85"
+slug: "demo_history_graph"
 description: "Addon to read Sleeppad sensor data and post to Home Assistant"
 arch:
   - armhf
