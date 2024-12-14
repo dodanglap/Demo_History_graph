@@ -16,7 +16,7 @@ options:
     description: "Base URL of Home Assistant API"
     type: str
     required: true
-    example: "http://192.168.1.13:8123/api"
+    example: "http://192.168.239.242:8123/api"
   api_token:
     description: "Long-Lived Access Token for Home Assistant API"
     type: str
